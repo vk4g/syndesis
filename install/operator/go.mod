@@ -51,7 +51,7 @@ require (
 	github.com/operator-framework/operator-sdk v0.0.0-20200428193249-b34ae44ff198 // Not a release but a bump commit aligning with client-go 0.18.2
 	github.com/rogpeppe/go-internal v1.5.0
 	github.com/spf13/afero v1.2.2
-	go.uber.org/zap v1.14.1
+	go.uber.org/zap v1.16.0
 	golang.org/x/lint v0.0.0-20200130185559-910be7a94367 // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
 	sigs.k8s.io/controller-runtime v0.6.0
